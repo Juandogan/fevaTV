@@ -1,0 +1,16 @@
+Correo GMAIL
+Mongodb:
+fevasistemas@gmail.com
+fevasistemas.12
+
+
+
+Configuraciion se servidor
+
+
+apt install nodejs
+
+https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-20-04-es
+
+///Matar proceso que no deja instalar nodejs. con el 
+sudo fuser -vki /var/lib/dpkg/lock-frontend 
