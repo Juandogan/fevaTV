@@ -2,8 +2,8 @@ const express = require ('express');
 const app = express(); // API
 
 //https
-// const fs = require('fs');
-// const https = require('https');
+ const fs = require('fs');
+ const https = require('https');
 
 const path = require ('path')
 const bodyParser = require ('body-parser');
@@ -66,7 +66,7 @@ console.log({'url': url })
 
 // Routes http://
 //app.use('/', express.static('client', {redirect:false}))
-app.use('/',express.static('client/frontend', {redirect:false}));
+app.use('/',express.static('client', {redirect:false}));
 app.use('/articulos',require('./controllers/articulos'));
 app.use('/anuncios',require('./controllers/anuncios'));
 // app.use('/adm',require('./routes/productos.routes'))
@@ -75,15 +75,15 @@ app.use('/upload', express.static(path.resolve('./subidas')))
 app.get('*', function(req, res, next){res.sendFile(path.resolve('client/index.html'));
 }) 
 
-//const PUERTO = 3000 ;
+const PUERTO = 3001 ;
 
 // Starting server  
-// https.createServer({
-//     cert: fs.readFileSync('Certificate.crt'),
-//     key: fs.readFileSync('Private.key')
-//   },app).listen(PUERTO, function(){
-//    console.log('Servidor https correindo en el puerto 443');
-// });
+ https.createServer({
+     cert: fs.readFileSync('fevatv.com.ar.crt'),
+     key: fs.readFileSync('fevatv.com.ar.key')
+   },app).listen(PUERTO, function(){
+    console.log('Servidor https correindo en el puerto 443');
+ });
 
 app.listen(app.get('port'), () => {console.log("Puerto escuchando en puerto: ", app.get('port'))});    
        
