@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1667734012236,
+  "timestamp": 1667696337125,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -165,9 +165,9 @@
     "/assets/voley3.jfif": "c68fdfd945fca254482abc70a03f919b6944899f",
     "/assets/volleyball-solid.svg": "0497f435f389be41cde80f3990282a523a9ccb37",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "c3b1c5f9fc03708283adc42bdbc7e1be3438ebd1",
+    "/index.html": "833c52535f5562d0a29abb6df17d42d9d7da9693",
     "/main.898e1f5f884a3e52.js": "06bb7f0ef61e53b3b063142e9c542239c41be58b",
-    "/manifest.webmanifest": "de9ef841890e78c29edae9436b7b5597caab7dcc",
+    "/manifest.webmanifest": "63b272452f7323ec09705c84044faa394ce82a79",
     "/polyfills.9e8a5187e66563c0.js": "73e0ab065f2b902287e589cb1f9081bb978bd4d3",
     "/runtime.7ac31a5ba44dee27.js": "5abf2f9c0398bf2649b1fcf0ca2ed30029434252",
     "/styles.31d31e098b8ca0f8.css": "a087557f98fbb095d104b5018f4f0f95fda8f281",

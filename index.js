@@ -66,7 +66,7 @@ console.log({'url': url })
 
 // Routes http://
 //app.use('/', express.static('client', {redirect:false}))
-app.use('/',express.static('client', {redirect:false}));
+app.use('/',express.static('client/frontend', {redirect:false}));
 app.use('/articulos',require('./controllers/articulos'));
 app.use('/anuncios',require('./controllers/anuncios'));
 // app.use('/adm',require('./routes/productos.routes'))
