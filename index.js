@@ -37,7 +37,7 @@ app.set('port', process.env.PORT || 3000);  // tomo app e nsu propiedad .set  //
 app.use(morgan('dev')); // morgan es una funcion, la pegamos en la propiedad use de app. y pasamos el parametro dev que indica que mostrara el mensaje por consola de desarrollo. 
 app.use(express.json()); // habilita para que el servidor entienda formato json, es una propiedad de la dependencia Express.npom
 
-app.use(cors('http://200.58.98.16:4200'));
+app.use(cors('https://www.fevatv.com.ar'));
 app.use(bodyParser.json({limit: '200mb'}));
 app.use(bodyParser.urlencoded({limit: '200mb', extended: true}));
 
@@ -46,7 +46,7 @@ app.post('/upload', multiPartMiddleware, (req,res)=>{
     console.log(req.files['archivos'].path) 
     var link = req.files['archivos'].path
       
-var url = 'http://200.58.98.16/upload/'+ link.slice(8) 
+var url = 'https://www.fevatv.com.ar/upload/'+ link.slice(8) 
 console.log({'url': url })
     res.json({'url':url });
     
@@ -57,7 +57,7 @@ app.post('/upload2', multiPartMiddleware, (req,res)=>{
    
     var link = req.files['upload'].path
       
-var url = 'http://200.58.98.16/upload/'+ link.slice(8) 
+var url = 'https://www.fevatv.com.ar/upload/'+ link.slice(8) 
 console.log({'url': url })
     res.json({'url':url });
     
@@ -66,7 +66,7 @@ console.log({'url': url })
 
 // Routes http://
 //app.use('/', express.static('client', {redirect:false}))
-app.use('/',express.static('client', {redirect:false}));
+app.use('/',express.static('client/frontend', {redirect:false}));
 app.use('/articulos',require('./controllers/articulos'));
 app.use('/anuncios',require('./controllers/anuncios'));
 // app.use('/adm',require('./routes/productos.routes'))
