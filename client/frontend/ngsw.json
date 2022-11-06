@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1667686960877,
+  "timestamp": 1667696337125,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -14,11 +14,11 @@
         "/797.da6e427dc233caa5.js",
         "/favicon.ico",
         "/index.html",
-        "/main.c4e0fdbaa3685ca2.js",
+        "/main.898e1f5f884a3e52.js",
         "/manifest.webmanifest",
         "/polyfills.9e8a5187e66563c0.js",
         "/runtime.7ac31a5ba44dee27.js",
-        "/styles.17dff8cb2210d4df.css"
+        "/styles.31d31e098b8ca0f8.css"
       ],
       "patterns": []
     },
@@ -30,6 +30,19 @@
         "ignoreVary": true
       },
       "urls": [
+        "/Kanit-italic-700.c9096f61de66111c.woff2",
+        "/Kanit-italic-700.df3b457e830fb275.ttf",
+        "/Kanit-italic-700.ef7231f844e7a12b.woff",
+        "/Kanit-normal-300.085fae96dc2866dc.woff",
+        "/Kanit-normal-300.562df33ba1130384.ttf",
+        "/Kanit-normal-300.b675aa8c0d2766ff.woff2",
+        "/Kanit-normal-700.ce5c2315a0c6cca9.woff",
+        "/Kanit-normal-700.e9b8600f358b8215.ttf",
+        "/Kanit-normal-700.eb9c0aeaac50a9a3.woff2",
+        "/Kanit-normal-800.45e5617f95a5abd2.ttf",
+        "/Kanit-normal-800.51945d736394f99a.woff",
+        "/Kanit-normal-800.da16038f6cab6978.woff2",
+        "/Kanit.c79b14c3082df0b4.svg",
         "/assets/000222.jfif",
         "/assets/00123.jpg",
         "/assets/1200px-FIVB_flag.svg.png",
@@ -89,6 +102,19 @@
   "dataGroups": [],
   "hashTable": {
     "/797.da6e427dc233caa5.js": "4a2f198a472d94913dc9ad7ab80cef1439da90b9",
+    "/Kanit-italic-700.c9096f61de66111c.woff2": "6c02040e884f9d23c305ea87290cc5a5adc188fe",
+    "/Kanit-italic-700.df3b457e830fb275.ttf": "ed0a8f726afc3e8e1676e081ca1daa77c740e453",
+    "/Kanit-italic-700.ef7231f844e7a12b.woff": "b1f725e5d57c2ac43e9aceb16457563aae2a9d58",
+    "/Kanit-normal-300.085fae96dc2866dc.woff": "7433a26cf29fcbbc5d918d324363f9cbc7176476",
+    "/Kanit-normal-300.562df33ba1130384.ttf": "91c5336b4f3ea41acc136d1f3fcb34efbcf7b0db",
+    "/Kanit-normal-300.b675aa8c0d2766ff.woff2": "681f57887a96fb7fdecf536e23deac5908664a60",
+    "/Kanit-normal-700.ce5c2315a0c6cca9.woff": "60c6a01586c4ff4fbf727e10d9ca1931eaa93ad6",
+    "/Kanit-normal-700.e9b8600f358b8215.ttf": "b03222acaffdf076fba9819f103bfa5895c570ab",
+    "/Kanit-normal-700.eb9c0aeaac50a9a3.woff2": "1cb1d7c89c4d2a9ff389420be4c1001eccf14501",
+    "/Kanit-normal-800.45e5617f95a5abd2.ttf": "20efc329dd677b04bb2296bb04eff268001bc62e",
+    "/Kanit-normal-800.51945d736394f99a.woff": "7ef902a933dc0e302e72da4f1678c31cb157bcab",
+    "/Kanit-normal-800.da16038f6cab6978.woff2": "b01f5b62d71d2c2ce7d7635c82cb67dc5b2dd724",
+    "/Kanit.c79b14c3082df0b4.svg": "c75df4bf08b1dc3a6e47009496cd98067ba64ef0",
     "/assets/000222.jfif": "364cd708b487e69906873fa7f3d61388557edaae",
     "/assets/00123.jpg": "ee58013fb9240ec7383b99f41b1675e1ab0859b2",
     "/assets/1200px-FIVB_flag.svg.png": "650066e5f0c38b347f69e0205b253d4917119142",
@@ -139,12 +165,12 @@
     "/assets/voley3.jfif": "c68fdfd945fca254482abc70a03f919b6944899f",
     "/assets/volleyball-solid.svg": "0497f435f389be41cde80f3990282a523a9ccb37",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "12e1d8c0971fb049b6ed4733c3b8722f79f46c49",
-    "/main.c4e0fdbaa3685ca2.js": "961bf99944334a3bb5f78d1a5064b8f6238c4bac",
+    "/index.html": "833c52535f5562d0a29abb6df17d42d9d7da9693",
+    "/main.898e1f5f884a3e52.js": "06bb7f0ef61e53b3b063142e9c542239c41be58b",
     "/manifest.webmanifest": "63b272452f7323ec09705c84044faa394ce82a79",
     "/polyfills.9e8a5187e66563c0.js": "73e0ab065f2b902287e589cb1f9081bb978bd4d3",
     "/runtime.7ac31a5ba44dee27.js": "5abf2f9c0398bf2649b1fcf0ca2ed30029434252",
-    "/styles.17dff8cb2210d4df.css": "eb25a1ffc5955fe2ef2221b0b14b14c19f26ed9b",
+    "/styles.31d31e098b8ca0f8.css": "a087557f98fbb095d104b5018f4f0f95fda8f281",
     "/videogular.a2e9f11f226cda93.ttf": "bb67bb29f92837ac5e2ea0bfd9fa689ad15fb887",
     "/videogular.b5fa324995460a3b.svg": "5f425e191f26e38cc784ef48eafebdb6d2b070db",
     "/videogular.ef07f01ce399477e.woff": "0e25c781426255dc473162ae7cd0fab5a5a721a4"
