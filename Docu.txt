@@ -9,8 +9,16 @@ Configuraciion se servidor
 
 
 apt install nodejs
+apt install npm
+apt install git
+apt install nginx
+apt install pm2
 
 https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-20-04-es
 
 ///Matar proceso que no deja instalar nodejs. con el 
 sudo fuser -vki /var/lib/dpkg/lock-frontend 
+
+
+
+nvm install 16.15.1
