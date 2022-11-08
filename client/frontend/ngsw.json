@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1667933962869,
+  "timestamp": 1667934983014,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -14,7 +14,7 @@
         "/797.fac8adbdc83a4e64.js",
         "/favicon.ico",
         "/index.html",
-        "/main.1b993449023b8d81.js",
+        "/main.6b0563d4efe91612.js",
         "/manifest.webmanifest",
         "/polyfills.9e8a5187e66563c0.js",
         "/runtime.80a3e581e0e4ceb5.js",
@@ -181,8 +181,8 @@
     "/assets/voley3.jfif": "c68fdfd945fca254482abc70a03f919b6944899f",
     "/assets/volleyball-solid.svg": "0497f435f389be41cde80f3990282a523a9ccb37",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "7fc0a7df9fbbcee665b50901c56c81a60d5291a4",
-    "/main.1b993449023b8d81.js": "4ac9f3cc32c98b0e843faa2366159985c933b098",
+    "/index.html": "eb56e074b71a7d8eed5e6cd21d495b40fdeb756d",
+    "/main.6b0563d4efe91612.js": "fc9519f2e14511432109c4c53b5f06885bd24c33",
     "/manifest.webmanifest": "f73d85360aa4886b8eec471cc92d3cc51a1922e2",
     "/polyfills.9e8a5187e66563c0.js": "73e0ab065f2b902287e589cb1f9081bb978bd4d3",
     "/runtime.80a3e581e0e4ceb5.js": "466e410c4c24970e1b7c3568100c2d21a22ed116",
