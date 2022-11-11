@@ -18,7 +18,9 @@ const articuloSchema = new Schema({
  aux1:{type: String, required : false},
  aux2:{type: String, required : false}, 
 
-})
+},
+{timestamps: true}
+)
 
 
 module.exports =  model('articuloSchema', articuloSchema)
