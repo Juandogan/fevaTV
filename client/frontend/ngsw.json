@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1668622657703,
+  "timestamp": 1668627708181,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -14,7 +14,7 @@
         "/433.dbab04fc29ef3e74.js",
         "/favicon.ico",
         "/index.html",
-        "/main.c625f72eb786f746.js",
+        "/main.f405cdcf7936b57a.js",
         "/manifest.webmanifest",
         "/polyfills.9e8a5187e66563c0.js",
         "/runtime.7effa9c47d310527.js",
@@ -127,7 +127,7 @@
     "/assets/000222.jfif": "364cd708b487e69906873fa7f3d61388557edaae",
     "/assets/00123.jpg": "ee58013fb9240ec7383b99f41b1675e1ab0859b2",
     "/assets/1200px-FIVB_flag.svg.png": "650066e5f0c38b347f69e0205b253d4917119142",
-    "/assets/COPA ARGENTINA.jpg": "154c1d816b85e32ebbd6b4db40fa448d6cd7e593",
+    "/assets/COPA ARGENTINA.jpg": "9de85046832f4ed87abe359930d71dda33efe424",
     "/assets/FeVA horizontal blanco y celeste plenos.png": "431239a5e789a04edebc300caef229a7d995bbeb",
     "/assets/FeVA horizontal blanco, celeste y sombras.png": "953d8e1e1bab0ca0957fa9afa10f5a635f0baba4",
     "/assets/FeVA horizontal colores plenos.png": "25b89836c8a1d7db9f0246f1340198c7009b3d58",
@@ -183,9 +183,9 @@
     "/assets/voley3.jfif": "c68fdfd945fca254482abc70a03f919b6944899f",
     "/assets/volleyball-solid.svg": "0497f435f389be41cde80f3990282a523a9ccb37",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "2039a5d824c03a90dcd9514d7a779081cd2542a0",
-    "/main.c625f72eb786f746.js": "ecdec07ea40bd57706b3d7a4ecb5928b8f34c88a",
-    "/manifest.webmanifest": "a484f0b04c2ddb5fed0817fadb633610e713d033",
+    "/index.html": "1206782f2e28001ef93eeb82bf6858fb8a630b5d",
+    "/main.f405cdcf7936b57a.js": "319f94c459060f2268eb211493725bbe1c8cd9fd",
+    "/manifest.webmanifest": "8dfb6e92597217fe58a14abe174f40d337795529",
     "/polyfills.9e8a5187e66563c0.js": "73e0ab065f2b902287e589cb1f9081bb978bd4d3",
     "/runtime.7effa9c47d310527.js": "6fdf948a5271f59a8cecebdd79ab0cb5f282cb3e",
     "/styles.c2bacaec17939ad1.css": "72cf2e9aba4574a9dd28b2fc2750ecb960ceb2a5",

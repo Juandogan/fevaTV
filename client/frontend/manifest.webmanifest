@@ -1,8 +1,8 @@
 {
   "name": "FEVATV",
   "short_name": "FEVATV",
-  "theme_color": "#FAA60C",
-  "background_color": "#131313",
+  "theme_color": "#131313",
+  "background_color": "#FAA60C",
   "display": "standalone",
   "scope": "./",
   "start_url": "./",

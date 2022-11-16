@@ -74,7 +74,7 @@ app.use('/videos',require('./controllers/videos'));
 // app.use('/adm',require('./routes/productos.routes'))
 
 app.use('/upload', express.static(path.resolve('./subidas')))
-app.get('*', function(req, res, next){res.sendFile(path.resolve('client/index.html'));
+app.get('*', function(req, res, next){res.sendFile(path.resolve('client/frontend/index.html'));
 }) 
 
 const PUERTO = 3001 ;
