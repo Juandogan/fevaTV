@@ -70,6 +70,7 @@ app.use('/',express.static('client/frontend', {redirect:false}));
 app.use('/articulos',require('./controllers/articulos'));
 app.use('/anuncios',require('./controllers/anuncios'));
 app.use('/users',require('./controllers/router'));
+app.use('/videos',require('./controllers/videos'));
 // app.use('/adm',require('./routes/productos.routes'))
 
 app.use('/upload', express.static(path.resolve('./subidas')))

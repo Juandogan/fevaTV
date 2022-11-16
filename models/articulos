@@ -7,7 +7,7 @@ const articuloSchema = new Schema({
  categoria:{type: String, required : false},
  titulo:{type: String, required : false},
  subtitulo:{type: String, required : false},
- vistas:{type: String, required : false},
+ vistas:{type: Number, required : false},
  ini_event:{type: String, required : false},
  nota:{type: String, required : false},
  link_youtube:{type: String, required : false},
