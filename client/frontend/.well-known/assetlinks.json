@@ -1,0 +1,12 @@
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "allfront",
+        "package_name": "com.fevaTV.app",
+        "sha256_cert_fingerprints": [
+            "1A:3D:64:D4:D7:A6:CF:5F:F4:B3:DF:AC:31:DB:22:59:EA:3F:3F:37:06:61:D6:EB:0D:C7:93:24:A1:AA:9B:43"
+        ]
+      }
+    }
+  ]
