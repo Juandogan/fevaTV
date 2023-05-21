@@ -1,0 +1,138 @@
+Correo GMAIL
+Mongodb:
+fevasistemas@gmail.com
+fevasistemas.12
+servidor
+200.58.98.16
+Yttf57t4U4Q8
+
+Configuraciion se servidor
+
+
+apt install nodejs
+apt install npm
+apt install git
+apt install nginx
+apt install pm2
+
+https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-20-04-es
+
+///Matar proceso que no deja instalar nodejs. con el 
+sudo fuser -vki /var/lib/dpkg/lock-frontend 
+
+
+
+nvm install 16.15.1
+
+android
+
+C:\Users\eva\Desktop\proyecto\fevatv\fevacertificado.jks
+keyStore:
+fevasistemas12
+alias: root2
+pass: fevasistemas12
+
+
+
+
+Feva pases.
+usuario. tesoreria
+pass. gustavo2021
+
+admin2022
+master2022
+
+
+http://168.197.50.191/gestor
+
+********************************************************************************************************
+DNI*	
+Nombre*	
+Apellido*	
+E-mail	
+Direccion	
+Tel	
+Sexo*	
+Fecha de Nacimiento*	
+Dia 
+Mes 
+año
+Pais*	
+Argentina
+Provincia	
+Localidad	
+
+Año Afiliacion*	
+Federacion*	
+Asociacion
+Club*	
+Carnet Feva
+
+******************************************BUSCADOR ARROJA LO SIGUIENTE***************************************************
+
+Nombre	Diego Pilar
+Apellido	Garcia De Diego
+DNI / Pasaporte	43084475
+Sexo	Femenino
+Fecha de Nacimiento	13-02-2001
+Edad	22 Años
+Lugar de Nacimiento	 Argentina
+Tel	 
+Domicilio	 
+E-mail	 
+Federacion	Federacion Metropolitana De Voleibol
+Asociacion	
+Club	Club De Gimnasia Y Esgrima De Bs As
+Categoria	Mayores
+Ult.Afiliacion	2022
+
+*** Historia de pase
+
+ccambasesdedatos@gmail.com
+UNdianuevo.12
+                                            <?php
+
+include($_SERVER['DOCUMENT_ROOT']."/templates/tmpl_culturademontania/scripts/slider_noticia_paginicial.html");
+
+
+?>
+
+Donweb
+ usuario: anatalia.fj@gmail.com
+ clave: Agueda74
+
+https://42.ip-178-103-190.us.ipxon.net:2222/
+
+User: nati2009
+Pass: 58dRD7zgF
+
+https://42.ip-178-103-190.us.ipxon.net:2222/
+
+User: nati2009
+Pass: 58dRD7zgF
+
+
+
+..  conexion dns 
+Para utilizar el servicio de correos electrónicos de Donweb, crea (o modifica) los siguientes registros en la zona DNS:
+Nombre: mail.culturademontania.org.ar
+Tipo: A
+Contenido: 200.58.111.58
+Nombre: culturademontania.org.ar
+Tipo: MX
+Contenido: mail.culturademontania.org.ar
+Prioridad: 0
+Nombre: mx1.culturademontania.org.ar
+Tipo: A
+Contenido: 200.58.122.206
+Nombre: culturademontania.org.ar
+Tipo: MX
+Contenido: mx1.culturademontania.org.ar
+Prioridad: 20
+Nombre: culturademontania.org.ar
+Tipo: TXT
+Contenido: v=spf1 include:spf.hostmar.com -all
+Para apuntarlo a tu sitio web, alojado en este hosting, crea (o modifica) un registro tipo "A" en la zona DNS:
+Nombre: culturademontania.org.ar
+Tipo: A
+Contenido: 200.58.111.58

@@ -1,0 +1,28 @@
+
+const { Schema, model } = require('mongoose');
+
+
+const articuloSchema = new Schema({
+     
+ categoria:{type: String, required : false},
+ titulo:{type: String, required : false},
+ subtitulo:{type: String, required : false},
+ vistas:{type: Number, required : false},
+ ini_event:{type: String, required : false},
+ nota:{type: String, required : false},
+ link_youtube:{type: String, required : false},
+ imagen:{type: String, required : false},
+ posicion:{type: String, required : false},
+ fecha :{type: String, required : false},
+ fechaMod:{type: String, required : false},
+ aux1:{type: String, required : false},
+ aux2:{type: String, required : false}, 
+
+},
+{timestamps: true}
+)
+
+
+module.exports =  model('articuloSchema', articuloSchema)
+
+
